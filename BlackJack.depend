@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1536748693 source:d:\codingprojects\blackjack\cardfcns.cpp
+	<iostream>
+	"CardClasses.h"
+
+1536738833 d:\codingprojects\blackjack\cardclasses.h
+
+1536748457 source:d:\codingprojects\blackjack\main.cpp
+	"GameFcns.h"
+
+1536748693 d:\codingprojects\blackjack\deckclass.h
+	"CardClasses.h"
+	<ctime>
+	<cstdlib>
+
+1536747809 source:d:\codingprojects\blackjack\deckfcns.cpp
+	"DeckClass.h"
+	<iostream>
+	<cassert>
+
+1536748451 source:d:\codingprojects\blackjack\gamefcns.cpp
+	"GameFcns.h"
+
+1536748693 d:\codingprojects\blackjack\gamefcns.h
+	"CardClasses.h"
+	"DeckClass.h"
+	<iostream>
+
