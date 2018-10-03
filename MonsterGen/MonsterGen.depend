@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1536726409 source:d:\codingprojects\monstergen\main.cpp
+	<iostream>
+	"MonsterGen.h"
+
+1536727102 d:\codingprojects\monstergen\monstergen.h
+	<string>
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1536726774 source:d:\codingprojects\monstergen\monstergenclass.cpp
+	"MonsterGen.h"
+
